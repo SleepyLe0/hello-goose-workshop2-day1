@@ -20,10 +20,12 @@ type User = {
     hobbies: string[];
 };
 
-export function logUserInfo(user: User): string {
+function logUserInfo(user: User): string {
     // write your statement here
     return ``;
 }
+
+export default logUserInfo;
   
   
   
