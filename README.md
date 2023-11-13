@@ -54,7 +54,9 @@ console.log(logUserInfo({
 ```
 
 ### Output:
-"User 6: Sophia Lee is 27 years old. Contact: sophia.lee@example.com, 82-777-8888. Address: 890 Willow Blvd, Greenville. Hobbies: dancing and coding."
+```
+User 6: Sophia Lee is 27 years old. Contact: sophia.lee@example.com, 82-777-8888. Address: 890 Willow Blvd, Greenville. Hobbies: dancing and coding.
+```
 
 
 
