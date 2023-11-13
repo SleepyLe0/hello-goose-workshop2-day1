@@ -1,4 +1,4 @@
-# ## TypeScript Problem: User Information Logger
+# TypeScript Problem: User Information Logger
 
 ### Problem Statement:
 
