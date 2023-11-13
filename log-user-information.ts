@@ -20,19 +20,14 @@ type User = {
     hobbies: string[];
 };
 
-function logUserInfo( user:User ) {
+export function logUserInfo(user: User): string {
     // write your statement here
+    return ``;
 }
+  
+  
+  
 
-// test
-logUserInfo({
-    id: 1,
-    fullName: { firstName: "John", lastName: "Doe" },
-    age: 25,
-    contact: { email: "john.doe@example.com", phone: { countryCode: "1", number: "555-1234" } },
-    address: { street: "123 Main St", city: "Anytown", zipCode: "12345" },
-    hobbies: ["reading", "coding", "gaming"]
-});
 
 
 

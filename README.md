@@ -2,7 +2,7 @@
 
 ### Problem Statement:
 
-Create a TypeScript function that takes a user object as a parameter and logs a personalized message.
+Create a TypeScript function that takes a user object as a parameter by using destructering object and return a personalized message.
 
 The user object has the following structure:
 

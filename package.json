@@ -5,10 +5,10 @@
   },
   "name": "ts-file-node",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "log-user-information.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ts-node": "ts-node index.ts"
+    "ts-node": "ts-node log-user-information.ts"
   },
   "keywords": [],
   "author": "",
